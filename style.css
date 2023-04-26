@@ -1,0 +1,35 @@
+body {
+    background-color: #1c1c1e;
+    color: #ffffff;
+  }
+  
+  .form-control {
+    background-color: #333333;
+    color: #ffffff;
+    border-color: #ffffff;
+  }
+  
+  .btn-primary {
+    background-color: #984063;
+    border-color: #984063;
+  }
+  
+  .btn-primary:hover {
+    background-color: #F64668;
+    border-color: #F64668;
+  }
+  
+  .btn-danger {
+    background-color: #FE9677;
+    border-color: #FE9677;
+  }
+  
+  .btn-danger:hover {
+    background-color: #984063;
+    border-color: #984063;
+  }
+  .table{
+    color: white;
+  }
+  
+  
